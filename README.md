@@ -24,7 +24,9 @@ To run the codes, open Jupyter Notebook and go to the folder ./src/
 #### There are 4 different problems on 4 optimizers:
 
 TSP Problem: run TSP.ipynb
+
 KSP Problem: run KSP.ipynb
+
 CPP Problem: run CPP.ipynb
 
 Optimize Neural Network: run NN.ipynb
